@@ -22,29 +22,41 @@ The dashboard provides a comprehensive overview of key performance metrics such 
 • Net Sales KPIs
 
  1. What is the **total net sale** overtime?
+    
  2. What is the percentage contribution of each **payment gateway** to net sales?
+    
  3. Which **product category contributes the most** to Net Sales?
+    
  4. Which **region/province/city generates the highest** net sales?
 
 • Total Quantity KPIs
 
  1. What is the **total quantity** sold over time?
+    
  2. Which **payment method** has the highest number of items sold?
+    
  3. Which **product type** has the highest sales volume?
+    
  4. Which **region/cities/** have the highest quantity sold?
 
 • Total Customers KPIs
 
  1.How many **customers were acquired** over time?
+ 
  2.Which **payment method** is most used by customers?
+ 
  3.Which **product categories** attract the most customers?
+ 
  4.Which **regions** have the highest number of customers?
 
 • Repeated Customers KPIs
 
  1.How does the **number of repeated customers** change over time?
+ 
  2.Which **payment methods** are preferred by repeat customers?
+ 
  3.Which **product categories** have the highest repeat purchase rate?
+ 
  4.Which **regions** have the highest number of repeat customers?
 
 
